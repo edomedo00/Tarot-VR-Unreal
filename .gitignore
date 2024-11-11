@@ -1,0 +1,22 @@
+# Unreal Engine gitignore
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+*.a
+*.generated.*
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+
+
+# .git/objects/pack/pack-6b704844bb221a3e23f5bce7fa7375026fa0b639.pack
+# Content/aes/suelo_prueba/Unreal_Engine_4/Textures/T_sueloUVS_suelo_Normal.uasset
+
+
+# Content/aes/suelo_prueba/Unreal_Engine_4/Textures/T_sueloUVS_suelo_Normal.uasset
